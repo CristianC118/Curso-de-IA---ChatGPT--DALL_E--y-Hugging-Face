@@ -1,0 +1,17 @@
+	Vídeo 14 - Árboles de juego: la escuela de Turing
+
+Árboles de juego en IA
+Los árboles de juego son una técnica utilizada en inteligencia artificial para modelar juegos complejos y estratégicos, como el ajedrez o el póker. Un árbol de juego es una estructura de datos que representa todas las posibles jugadas y resultados de un juego en una serie de nodos y ramas.
+
+Cada nodo del árbol representa un estado del juego, mientras que cada rama representa una jugada posible que lleva a un nuevo estado del juego. Los algoritmos de búsqueda de árboles se utilizan para analizar los árboles de juego y determinar la mejor jugada posible para un jugador en cada estado del juego.
+
+Turing y la inteligencia como solucionador de problemas
+Alan Turing, uno de los padres fundadores de la informática y la inteligencia artificial, propuso la idea de que la inteligencia humana es esencialmente un proceso de resolución de problemas. En su artículo de 1950 “Computing Machinery and Intelligence”, propuso la prueba de Turing, que se utiliza para evaluar la capacidad de una máquina para mostrar un comportamiento inteligente similar al humano.
+
+Según Turing, la inteligencia humana se puede modelar como un proceso de resolución de problemas, donde el objetivo es encontrar la mejor solución posible a un problema en un conjunto dado de posibilidades. Los árboles de juego en inteligencia artificial son una aplicación directa de esta idea, ya que se utilizan para modelar juegos que son esencialmente problemas de toma de decisiones.
+
+La creación de un árbol de juego es una forma de resolver problemas en un contexto específico, ya que implica la identificación y evaluación de posibles soluciones. Al explorar las posibles jugadas, el árbol de juego permite a la máquina identificar la mejor estrategia para ganar el juego.
+
+Los árboles de juego se utilizan en una variedad de aplicaciones de inteligencia artificial, incluyendo juegos de mesa, estrategias militares, finanzas y planificación de proyectos.
+
+En resumen, los árboles de juego son una técnica importante en inteligencia artificial para modelar juegos complejos y estratégicos, mientras que la idea de Turing de la inteligencia como solucionador de problemas se puede aplicar directamente en la resolución de problemas en juegos y en otros contextos de toma de decisiones.

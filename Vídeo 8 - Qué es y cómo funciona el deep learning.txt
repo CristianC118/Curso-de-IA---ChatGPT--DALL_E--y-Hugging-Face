@@ -1,0 +1,35 @@
+	Vídeo 8 - ¿Qué es y cómo funciona el deep learning?
+
+¿Cómo funciona el Deep Learning?
+Redes Neuronales artificiales
+Las redes neuronales artificiales son sistemas computacionales🤖 que imitan la estructura y el funcionamiento del cerebro humano 🧠y se utilizan en una variedad de aplicaciones, desde el procesamiento de imágenes hasta la detección de fraudes🤯.
+
+Universalidad: Imitación de cualquier función. Esto es lo que las hace tan potentes 🤯
+Neuronas de una red neuronal
+Las neuronas son los bloques fundamentales de las redes neuronales y se componen de entradas, pesos, una función de activación y una salida. Imitan a las neuronas del cerebro biológico🕵️‍♀️
+
+Capas de una red neuronal
+Las capas son un conjunto de neuronas que procesan datos de manera similar. Las redes neuronales suelen tener varias capas y pueden ser profundas (deep) o menos profundas (shallow).
+
+Redes neuronales
+Una neurona es la unidad básica de procesamiento en una red neuronal, mientras que una red neuronal es un sistema complejo que consta de múltiples neuronas interconectadas🕵️‍♀️. ¡Es emocionante pensar en la capacidad de las redes neuronales para realizar tareas de aprendizaje automático como el procesamiento de imágenes o la toma de decisiones! 🌟La principal diferencia entre ambas radica en su nivel de complejidad, lo que abre la puerta a un sinfín de posibilidades para el futuro de la inteligencia artificial📈.
+
+Proceso de aprendizaje
+El proceso de aprendizaje de las redes neuronales se divide en tres etapas: propagación hacia adelante, cálculo de error y propagación hacia atrás.
+
+Forward propagation: 👉👉👉👉
+Nuestra red pasa todos los datos de izquierda a derecha (Propagación hacia adelante) y genera una predicción
+Calculo de error📊
+Calculamos que tan bien nuestro algoritmo realiza las predicciones (Para eso hace uso de una función de costo) y obtenemos un valor numérico (error)
+Back propagation 👈👈👈👈
+Con base en nuestra función de costo y el error. Nuestro algoritmo pasa de derecha a izquierda (Propagación hacia atrás) y realiza algunos cambios en su comportamiento para mejorar su desempeño (O aprender más)
+¿Qué es el deep learning?
+El deep learning es una subrama del aprendizaje automático🤖 que se enfoca en el uso de redes neuronales profundas para aprender patrones complejos🕵️‍♀️🕵️‍♀️ a partir de grandes conjuntos de datos. Se necesitan grandes cantidades de datos para entrenar🦾🦾 los modelos de deep learning.
+
+Necesitan muchos datos para generara modelos buenos
+Para crear modelos de deeplearning debemos
+Escoger un lenguaje: Python o Julia
+Escoger un Framework
+TensorFlow
+Pytorch
+Jax

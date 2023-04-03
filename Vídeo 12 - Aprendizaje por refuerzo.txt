@@ -1,0 +1,19 @@
+	Vídeo 10 - Aprendizaje por refuerzo
+
+Aprendizaje por refuerzo en IA
+El aprendizaje por refuerzo es una técnica de aprendizaje automático en la que un agente aprende a tomar decisiones en un entorno complejo para maximizar una recompensa numérica. El agente debe realizar una serie de acciones para alcanzar una meta específica, mientras el entorno responde con una señal de recompensa. El objetivo es maximizar la señal de recompensa a largo plazo.
+
+Componentes del aprendizaje por refuerzo
+El aprendizaje por refuerzo consta de tres componentes principales:
+
+El agente: el agente es el programa que toma decisiones en el entorno y aprende a maximizar la recompensa.
+El entorno: el entorno es el mundo en el que el agente opera y donde las acciones del agente tienen consecuencias.
+La señal de recompensa: la señal de recompensa es una medida numérica que indica qué tan bien está haciendo el agente en una tarea dada.
+Casos de uso del aprendizaje por refuerzo
+El aprendizaje por refuerzo se ha aplicado en una variedad de campos, incluyendo:
+
+Juegos de estrategia: los juegos como Go, Ajedrez y Starcraft presentan un gran desafío para la IA debido a su complejidad. El aprendizaje por refuerzo ha sido utilizado para entrenar agentes que pueden competir contra humanos en estos juegos.
+Robótica: los robots autónomos pueden aprender a realizar tareas complejas mediante el aprendizaje por refuerzo. Por ejemplo, un robot puede aprender a caminar en un entorno desconocido a través del ensayo y error.
+Sistemas de recomendación: el aprendizaje por refuerzo puede utilizarse para mejorar los sistemas de recomendación. Un agente de aprendizaje por refuerzo puede seleccionar recomendaciones para un usuario basado en su historial de visualización y otros factores.
+Control de procesos industriales: el aprendizaje por refuerzo puede utilizarse para optimizar el control de procesos industriales, como la producción de energía, la fabricación y la agricultura.
+En resumen, el aprendizaje por refuerzo es una técnica de aprendizaje automático que se utiliza para entrenar a los agentes a tomar decisiones en un entorno complejo para maximizar una recompensa numérica. Tiene una amplia variedad de aplicaciones en campos como los juegos, la robótica, los sistemas de recomendación y el control de procesos industriales.

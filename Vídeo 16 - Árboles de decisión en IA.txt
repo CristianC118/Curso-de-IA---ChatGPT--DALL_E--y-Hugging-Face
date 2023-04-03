@@ -1,0 +1,22 @@
+	Vídeo 16 - Árboles de decisión en IA
+
+Árboles de decisión en IA
+Los árboles de decisión son una técnica utilizada en inteligencia artificial para modelar decisiones complejas y tomar decisiones basadas en múltiples criterios. Un árbol de decisión es una estructura de datos que representa todas las posibles decisiones y resultados de un proceso de toma de decisiones en una serie de nodos y ramas.
+
+Cada nodo del árbol representa un punto de decisión en el proceso, mientras que cada rama representa una opción posible que lleva a un nuevo nodo de decisión o a un resultado final. Los algoritmos de construcción de árboles de decisión se utilizan para analizar los datos y construir árboles que representan las decisiones óptimas en función de múltiples criterios.
+
+Los árboles de decisión se utilizan en una amplia variedad de aplicaciones en inteligencia artificial, incluyendo la toma de decisiones empresariales, el diagnóstico médico y la detección de fraude.
+
+Funcionamiento de los árboles de decisión
+El funcionamiento de los árboles de decisión comienza con un conjunto de datos de entrenamiento que contiene múltiples variables de entrada y una variable de salida que indica el resultado esperado. El objetivo es construir un árbol de decisión que modele la relación entre las variables de entrada y la variable de salida.
+
+El algoritmo de construcción de árboles de decisión comienza dividiendo los datos de entrenamiento en subconjuntos más pequeños en función de los valores de una variable de entrada. Luego, se calcula una medida de impureza para cada subconjunto, que indica la homogeneidad de los valores de la variable de salida en ese subconjunto.
+
+El algoritmo selecciona la variable de entrada que proporciona la mejor división de los datos en subconjuntos más homogéneos y crea un nodo de decisión en el árbol que representa esa variable de entrada. Luego, el algoritmo repite este proceso para cada subconjunto hasta que se alcance un estado final en el que todas las variables de entrada se hayan utilizado y se hayan creado todos los nodos de decisión necesarios.
+
+Una vez que se ha construido el árbol de decisión, se puede utilizar para tomar decisiones en función de los valores de las variables de entrada. Para tomar una decisión, se sigue la ruta en el árbol que corresponde a los valores de las variables de entrada y se llega a un nodo final que indica el resultado esperado.
+
+Ejemplo de árbol de decisión
+Un ejemplo de árbol de decisión es la detección de spam en correos electrónicos. El conjunto de datos de entrenamiento podría incluir múltiples variables de entrada, como el remitente, el asunto y el contenido del correo electrónico, y una variable de salida que indica si el correo electrónico es spam o no.
+
+El algoritmo de construcción de árboles de decisión se utilizaría para analizar los datos de entrenamiento y construir un árbol de decisión que modele la relación entre las variables de entrada y la variable de salida. Luego, el árbol de decisión se puede utilizar para clasificar nuevos correos electrónicos como spam o no spam en función de las variables de entrada

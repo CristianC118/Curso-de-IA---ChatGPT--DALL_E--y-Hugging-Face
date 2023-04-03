@@ -1,0 +1,19 @@
+	Vídeo 23 - Ética en inteligencia artificial: contexto y definiciones
+
+Ética en los datos: consideraciones sobre el uso de datos personales
+En la era digital, la cantidad de datos personales generados y recopilados ha aumentado significativamente, lo que plantea importantes desafíos éticos. Es importante considerar que estos datos representan a personas, por lo que es necesario tener en cuenta los valores fundamentales de respeto, justicia, responsabilidad y derechos humanos.
+
+Ofrecer un bien público
+El uso de los datos personales debe tener como objetivo principal la creación de un bien público para la sociedad. Es importante asegurarse de que el uso de los datos esté justificado y que la información recopilada sea necesaria para cumplir con el objetivo previsto. Además, es necesario garantizar la transparencia y la privacidad de los datos.
+
+Buscar justicia
+Es importante considerar la justicia en el uso de los datos, asegurando que no haya discriminación o sesgo en el proceso de análisis. Se debe garantizar que los datos no se utilicen para tomar decisiones injustas que puedan afectar a ciertos grupos de personas.
+
+Responsabilidad
+Quienes recopilan, almacenan y utilizan datos personales tienen la responsabilidad de garantizar que la información se maneje de manera ética y respetuosa. Se deben tomar medidas de seguridad para evitar el acceso no autorizado, así como para evitar la explotación de la información recopilada.
+
+Respeto a los derechos humanos
+Las personas tienen el derecho a la privacidad y a la protección de sus datos personales. Es importante respetar estos derechos y asegurarse de que cualquier uso de los datos esté de acuerdo con las leyes y regulaciones aplicables. Además, es importante informar a las personas sobre cómo se utilizarán sus datos y permitirles tomar decisiones informadas sobre su privacidad.
+
+Conclusión
+El uso de los datos personales debe ser ético, transparente y respetuoso de los derechos humanos. Los datos deben utilizarse para ofrecer un bien público, buscar la justicia y garantizar la responsabilidad en el manejo de la información. Es necesario establecer un equilibrio entre el valor de la información y la privacidad de las personas, y este equilibrio se logra a través de un enfoque ético y responsable en el uso de los datos.

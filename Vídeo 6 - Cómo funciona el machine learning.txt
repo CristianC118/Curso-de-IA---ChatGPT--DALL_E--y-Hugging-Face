@@ -1,0 +1,35 @@
+	Vídeo 7 - ¿Cómo funciona el machine learning?
+	
+Con el machine learning la programación es diferente ya que tenemos datos de entrada y las respuestas que deseamos obtener, el modelo lo que hará es generar las reglas que el mismo requiere para generar nuevas predicciones
+
+El ciclo de vida es común para todos los modelos por lo cual los pasos de este ciclo de vida son:
+
+Recopilar grande cantidad de datos (base de datos, sensores, sistemas, etc)
+
+Preparación de los datos segmentando los datos y eliminando lo que no usemos
+
+Hipótesis y modelo o sea escoger el modelo a usar
+o Regresión lineal
+o Regresión logística
+o Árboles de decisión
+o Random Forest
+o Support Vector Machines (SVM)
+o Redes neuronales artificiales (ANN)
+o Redes neuronales convolucionales (CNN)
+o Redes neuronales recurrentes (RNN)
+o Modelos de agrupamiento (Clustering)
+o Modelos de asociación
+o Modelos de secuencias
+o Máquinas de vectores de soporte
+o Modelos de Markov ocultos
+o Modelos de Naive Bayes
+
+Entrenamiento del modelo: es generar escenarios para que el modelo realice predicciones sobre datos que nunca ha visto.
+
+Evaluación del modelo: vamos a entregarle datos que nunca ha visto para evaluar los resultados.
+
+Producción: es cuando nuestro modelo comienza a producir y ya está interactúan con clientes y datos reales.
+
+Mejora y ajuste que es la etapa donde recolectamos gran cantidad de datos de nuestros usuarios para ir realizando ajustes y mejoras al modelo.
+
+Están etapas se deben de realizar de continuo para que el modelo se ajuste a futuros cambios sobre las reglas de negocio.

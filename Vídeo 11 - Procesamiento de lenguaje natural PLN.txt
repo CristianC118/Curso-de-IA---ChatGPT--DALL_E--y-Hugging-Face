@@ -1,0 +1,10 @@
+	Vídeo 9 - Procesamiento de lenguaje natural: PLN
+
+Procesamiento de lenguaje natural (PLN)
+El procesamiento de lenguaje natural (PLN) es una rama de la inteligencia artificial que se enfoca en la interacción entre las computadoras y el lenguaje humano. El objetivo del PLN es permitir que las computadoras puedan entender, interpretar y generar lenguaje natural de la misma manera que lo hacen los seres humanos.
+
+Test de Turing
+El test de Turing es un experimento propuesto por el matemático y científico de la computación Alan Turing en 1950. El objetivo del test es determinar si una máquina puede exhibir un comportamiento inteligente equivalente o indistinguible del de un ser humano. El test se realiza mediante una conversación en lenguaje natural entre una persona y una máquina, y si la persona no puede distinguir si la respuesta proviene de una máquina o de otro ser humano, se considera que la máquina ha pasado el test.
+
+Inteligencia artificial fuerte
+La inteligencia artificial fuerte se refiere a la idea de una inteligencia artificial que puede igualar o superar la inteligencia humana en todas las áreas cognitivas. Es decir, una máquina que es capaz de pensar, razonar, aprender y tomar decisiones de la misma manera que un ser humano. A diferencia de la inteligencia artificial débil, que se enfoca en solucionar tareas específicas, la inteligencia artificial fuerte tiene como objetivo crear una máquina con una capacidad cognitiva general y amplia. Sin embargo, esta idea aún se considera como una meta a largo plazo y es objeto de debate entre los expertos en inteligencia artificial.
